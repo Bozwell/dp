@@ -2,7 +2,7 @@
 
 ### introduction
 본 프로젝트는 raspberry pi zero2w와 e-ink display를 연동하는 토이프로젝트 입니다.
-1분마다 달러/원, 엔/원 환율, BTC 가격정보 갱신하여  e-ink displa에 보여줍니다. 
+1분마다 달러/원, 엔/원 환율, BTC 가격정보 갱신하여  e-ink display에 보여줍니다. 
 ![e-ink display](img/e-ink.jpg)
 
 
